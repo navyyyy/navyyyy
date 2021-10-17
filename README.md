@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @navyyyy
-- 👀 I’m interested in art & graphic design.
-- 🌱 I’m currently learning python & c++
 
 
 <!---
